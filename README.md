@@ -16,3 +16,5 @@ Will Heyer, I should also credit Alyson May for the assistance!
 Github: https://github.com/WillHeyer/Burger-Log
 
 Email: williamhheyer@gmail.com
+
+![image info](Images/BurgerPreview.png)
